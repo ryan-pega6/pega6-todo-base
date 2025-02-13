@@ -1,13 +1,29 @@
-# pega6-todo-base
+# vue-todo
 
-## Building a todo app with this repo:
+This template should help get you started developing with Vue 3 in Vite.
 
-1. Ensure the Github Copilot Extension is installed
-2. Open "Edit with Copilot" (Shift + Command + I)
-3. Choose Claude 3.5 Sonnet as the model
-4. Use Prompt: `Create a simple vue app using vue 3`
+## Recommended IDE Setup
 
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
+## Customize configuration
 
-## How was this repo built?
-1. From a blank repo, ran `npm create vue@latest`
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
