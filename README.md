@@ -10,7 +10,7 @@ A simple Vue 3 Todo application that allows you to:
 1. Ensure the Github Copilot Extension is installed
 2. Open "Edit with Copilot" (Shift + Command + I)
 3. Choose Claude 3.5 Sonnet as the model
-4. Use Prompt: `Create a simple vue app using vue 3`
+4. Use Prompt: `Turn this vue app into a simple todo application`
 
 ## Development
 
